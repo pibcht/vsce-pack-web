@@ -1,0 +1,19 @@
+{
+  "publisher": "pibcht",
+  "name": "pack-web",
+  "version": "0.0.0",
+  "engines": { "vscode": "^1.0.0" },
+  "categories": [ "Extension Packs" ],
+  "displayName": "Pi Pack • Web",
+  "description": "The starter pack for web development",
+  "icon": "icon.png",
+  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "keywords": [
+    "Azure", "Bundle", "Dev", "Functions App", "Fundamental", "Init", "Optimize", 
+    "Powertools", "Productivity", "Toolbox"
+  ],
+  "homepage": "https://github.com/pibcht/vsce-pack-web",
+  "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-web.git" },
+  "bugs": { "url": "https://github.com/pibcht/vsce-pack-web/issues" },
+  "extensionPack": []
+}
