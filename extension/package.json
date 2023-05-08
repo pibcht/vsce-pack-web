@@ -12,6 +12,7 @@
     "Azure", "Bundle", "Dev", "Functions App", "Fundamental", "Init", "Optimize", 
     "Powertools", "Productivity", "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-web",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-web.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-web/issues" },
