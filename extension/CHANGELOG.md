@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Debugger for Firefox [firefox-devtools.vscode-firefox-debug](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - Pretty TypeScript Errors [yoavbls.pretty-ts-errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- Template String Converter [meganrogge.template-string-converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
 - Total TypeScript [mattpocock.ts-error-translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 - vscode-twoslash-queries [orta.vscode-twoslash-queries](https://marketplace.visualstudio.com/items?itemName=orta.vscode-twoslash-queries)
 
