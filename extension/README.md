@@ -12,6 +12,10 @@ Fundamental extensions for all uses
 
 Debug your web application or browser extension in Firefox
 
+### Pretty TypeScript Errors [yoavbls.pretty-ts-errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+
+Make TypeScript errors prettier and more human-readable in VSCode
+
 ### Total TypeScript [mattpocock.ts-error-translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 
 Learn TypeScript in VSCode with a TypeScript error translator and syntax guide.
