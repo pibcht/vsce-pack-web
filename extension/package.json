@@ -17,9 +17,9 @@
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-web.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-web/issues" },
   "extensionPack": [
-    "pibcht.pack-core", "firefox-devtools.vscode-firefox-debug", 
-    "mattpocock.ts-error-translator", "meganrogge.template-string-converter", 
-    "orta.vscode-twoslash-queries", "wix.vscode-import-cost", 
-    "yoavbls.pretty-ts-errors"
+    "pibcht.pack-core", "esbenp.prettier-vscode", 
+    "firefox-devtools.vscode-firefox-debug", "mattpocock.ts-error-translator", 
+    "meganrogge.template-string-converter", "orta.vscode-twoslash-queries", 
+    "wix.vscode-import-cost", "yoavbls.pretty-ts-errors"
   ]
 }
