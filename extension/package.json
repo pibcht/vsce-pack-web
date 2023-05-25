@@ -18,6 +18,7 @@
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-web/issues" },
   "extensionPack": [
     "pibcht.pack-core", "firefox-devtools.vscode-firefox-debug", 
-    "mattpocock.ts-error-translator", "yoavbls.pretty-ts-errors"
+    "mattpocock.ts-error-translator", "orta.vscode-twoslash-queries", 
+    "yoavbls.pretty-ts-errors"
   ]
 }

@@ -11,6 +11,7 @@
 - [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 - [Total TypeScript](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
+- [vscode-twoslash-queries](https://marketplace.visualstudio.com/items?itemName=orta.vscode-twoslash-queries)
 
 ### Liens
 

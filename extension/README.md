@@ -19,3 +19,7 @@ Make TypeScript errors prettier and more human-readable in VSCode
 ### Total TypeScript [mattpocock.ts-error-translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 
 Learn TypeScript in VSCode with a TypeScript error translator and syntax guide.
+
+### vscode-twoslash-queries [orta.vscode-twoslash-queries](https://marketplace.visualstudio.com/items?itemName=orta.vscode-twoslash-queries)
+
+Adds support for twoslash queries into typescript projects
