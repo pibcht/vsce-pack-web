@@ -19,6 +19,7 @@
   "extensionPack": [
     "pibcht.pack-core", "firefox-devtools.vscode-firefox-debug", 
     "mattpocock.ts-error-translator", "meganrogge.template-string-converter", 
-    "orta.vscode-twoslash-queries", "yoavbls.pretty-ts-errors"
+    "orta.vscode-twoslash-queries", "wix.vscode-import-cost", 
+    "yoavbls.pretty-ts-errors"
   ]
 }

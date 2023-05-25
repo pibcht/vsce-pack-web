@@ -12,6 +12,10 @@ Fundamental extensions for all uses
 
 Debug your web application or browser extension in Firefox
 
+### Import Cost [wix.vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+Display import/require package size in the editor
+
 ### Pretty TypeScript Errors [yoavbls.pretty-ts-errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 Make TypeScript errors prettier and more human-readable in VSCode
