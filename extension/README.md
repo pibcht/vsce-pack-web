@@ -11,3 +11,7 @@ Fundamental extensions for all uses
 ### Debugger for Firefox [firefox-devtools.vscode-firefox-debug](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 
 Debug your web application or browser extension in Firefox
+
+### Total TypeScript [mattpocock.ts-error-translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
+
+Learn TypeScript in VSCode with a TypeScript error translator and syntax guide.
